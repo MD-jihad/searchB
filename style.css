@@ -1,0 +1,61 @@
+.serch input{
+    margin:10px 0px 0px 537px;
+    padding:11px 163px 12px 22px;
+}
+
+.box1{
+    margin: 73px 467px 0px 654px;
+}
+.padd {
+  margin:  0px 467px 0px 640px;
+
+}
+.divex{
+    display: flex;
+
+}
+.divex .box2{
+    margin: 68px 62px 42px 287px;
+    border: 2px solid black;
+    padding: 8px 8px;
+}
+.divex .box3{
+    margin:68px 62px 42px 61px ;
+    border: 2px solid black;
+    padding: 8px 8px;
+}
+.divex .box4{
+    margin: 68px 62px 42px 73px;
+    border: 2px solid black;
+    padding: 8px 8px ;
+
+}
+.divex .box5{
+    margin: 68px 62px 42px 73px;
+    border: 2px solid black;
+    padding: 8px 8px;
+}
+.divex2{
+    display: flex;
+}
+.divex2 .box6{
+    margin:68px 62px 42px 296px ;
+    border: 2px solid black;
+    padding: 8px 8px;
+    
+}
+.divex2 .box71{
+    margin: 68px 62px 42px 73px;
+    border: 2px solid black;
+    padding:8px 8px;
+}
+.divex2 .box72{
+    margin:68px 62px 42px 73px ;
+    border:2px solid black ;
+    padding:8px 8px ;
+}
+.divex2 .box73{
+      margin: 68px 62px 42px 73px  ;
+      border:2px solid black  ;
+      padding:8px 8px  ;
+}
